@@ -43,7 +43,7 @@ Here are a few of the real-world inspired projects I’m working on or planning:
 ## 📫 Contact
 
 - 📧 Email: [jadeadamriley@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/your-link](linkedin.com/in/jade-adam-riley-6a3256334)
+- 💼 LinkedIn: [linkedin.com/in/jade-adam-riley-6a3256334]
 - 🌍 Portfolio: Coming soon...
 
 ---
