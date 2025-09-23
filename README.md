@@ -44,9 +44,9 @@ Here are a few of the real-world inspired projects I’m working on or planning:
 
 - 📧 Email: [jadeadamriley@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/jade-adam-riley-6a3256334]
-- 🌍 Portfolio: Coming soon...
+
 
 ---
 
-_"Don’t just learn it — use it."_  
-Let’s connect and build cool stuff.
+"Code everyday so you can make lots of money" ~ Benjamin Franklin probably 
+
