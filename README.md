@@ -1,52 +1,38 @@
 # Hey, I'm Jade 👋
-
-🎓 Final-year Bachelor of Computing student at [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/), passionate about building real-world software that solves real-world problems.
-
-💻 I enjoy working on practical, hands-on projects that involve clean architecture, user-focused design, and systems that just *work*. I'm all about making businesses more efficient with the help of good code.
-
+🎓 Bachelor of Computing graduate from [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/), now working as a **Data Consultant at Expeditus** — turning messy data into clean, useful insights.
+💻 I love working with databases, writing solid SQL, and building data solutions that actually help businesses make smarter decisions. Still a full-stack dev at heart — just more focused on the data side of things lately.
 ---
-
 ## 🧠 A Bit About Me
-
 - 🔍 Love figuring things out — especially how systems, people, and numbers interact.
-- 💡 Big fan of applied statistics and problem-solving in business environments.
+- 💡 Big fan of applied statistics, data analytics, and problem-solving in business environments.
 - 🛠️ Focused on:
+  - SQL development (SSMS, T-SQL, query optimization)
+  - Snowflake ❄️ — data warehousing, analytics, and everything in between
+  - Data modeling, ETL pipelines, and reporting
   - Full-stack development (JavaScript, React, Node.js, C#, .NET)
   - Agile methodologies (Scrum, Kanban)
   - Clean code principles and object-oriented programming
   - Software design patterns and architecture
 - ⚙️ Learning every day and building a portfolio to show it.
-
 ---
-
 ## 🔨 Projects
-
-Here are a few of the real-world inspired projects I’m working on or planning:
-
+A mix of professional work and personal builds:
+- **Data Consulting @ Expeditus** – Building and maintaining SQL solutions, working across SSMS and Snowflake to deliver clean, reliable data for clients
+- **Snowflake Analytics Experiments** – Personal exploration into warehousing, performance tuning, and data transformations
 - **Student Management System** – Full CRUD desktop app with proper business logic using C# and Windows Forms
 - **Telecom Customer Types** – OOP system with Prepaid and Contract logic
 - **Horse Race Dashboard** – JavaScript web app showing performance stats and leaderboards
 - **QR Code Factory Tracker** – Tracking products and raw materials using QR codes and form automation
-
 > I built these to solve real problems, not just follow tutorials.
-
 ---
-
 ## 🎯 Goals
-
 - 🧠 Build a strong, clean portfolio with actual value behind it
-- 💼 Get hired into a developer role where I can learn, contribute, and grow
-- 📊 Eventually branch into data-heavy roles where stats and systems meet
-
+- ❄️ Go deep on Snowflake and modern data stack tools
+- 📊 Bridge the gap between raw data and real business value
+- 💼 Keep growing as a developer — data-focused, but full-stack ready
 ---
-
 ## 📫 Contact
-
 - 📧 Email: [jadeadamriley@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/jade-adam-riley-6a3256334]
-
-
 ---
-
-"Code everyday so you can make lots of money" ~ Benjamin Franklin probably 
-
+"Code everyday so you can make lots of money" ~ Benjamin Franklin probably
