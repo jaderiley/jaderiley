@@ -17,8 +17,7 @@
 ---
 ## 🔨 Projects
 A mix of professional work and personal builds:
-- **Data Consulting @ Expeditus** – Building and maintaining SQL solutions, working across SSMS and Snowflake to deliver clean, reliable data for clients
-- **Snowflake Analytics Experiments** – Personal exploration into warehousing, performance tuning, and data transformations
+- **Data Consulting @ Expeditus** – Building and maintaining SQL and Snowflake solutions across SSMS, delivering clean, reliable data and analytics for clients
 - **Student Management System** – Full CRUD desktop app with proper business logic using C# and Windows Forms
 - **Telecom Customer Types** – OOP system with Prepaid and Contract logic
 - **Horse Race Dashboard** – JavaScript web app showing performance stats and leaderboards
