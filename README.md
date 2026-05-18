@@ -1,6 +1,5 @@
 # Hey, I'm Jade 👋
 🎓 Bachelor of Computing graduate from [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/), now working as a **Data Consultant at Expeditus** — turning messy data into clean, useful insights.
-
 💻 I love working with databases, writing solid SQL, and building data solutions that actually help businesses make smarter decisions. Still a full-stack dev at heart — just more focused on the data side of things lately.
 ---
 ## 🧠 A Bit About Me
