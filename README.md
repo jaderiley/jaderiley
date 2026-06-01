@@ -1,13 +1,13 @@
 # Hey, I'm Jade 👋
-🎓 Bachelor of Computing graduate from [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/), now working as a **Data Consultant at [Expeditus](https://expeditus.co.za/)** — turning messy data into clean, useful insights.
-💻 I love working with databases, writing solid SQL, and building data solutions that actually help businesses make smarter decisions. Still a full-stack dev at heart — just more focused on the data side of things lately.
+🎓 Bachelor of Computing graduate from [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/), now working as a **Data Consultant at [Expeditus](https://expeditus.co.za/)** - turning messy data into clean, useful insights.
+💻 I love working with databases, writing solid SQL, and building data solutions that actually help businesses make smarter decisions. Still a full-stack dev at heart - just more focused on the data side of things lately.
 ---
 ## 🧠 A Bit About Me
-- 🔍 Love figuring things out — especially how systems, people, and numbers interact.
+- 🔍 Love figuring things out - especially how systems, people, and numbers interact.
 - 💡 Big fan of applied statistics, data analytics, and problem-solving in business environments.
 - 🛠️ Focused on:
   - SQL development (SSMS, T-SQL, query optimization)
-  - Snowflake ❄️ — data warehousing, analytics, and everything in between
+  - Snowflake ❄️ - data warehousing, analytics, and everything in between
   - Data modeling, ETL pipelines, and reporting
   - Full-stack development (JavaScript, React, Node.js, C#, .NET)
   - Agile methodologies (Scrum, Kanban)
@@ -28,7 +28,7 @@ A mix of professional work and personal builds:
 - 🧠 Build a strong, clean portfolio with actual value behind it
 - ❄️ Go deep on Snowflake and modern data stack tools
 - 📊 Bridge the gap between raw data and real business value
-- 💼 Keep growing as a developer — data-focused, but full-stack ready
+- 💼 Keep growing as a developer - data-focused, but full-stack ready
 ---
 ## 📫 Contact
 - 📧 Email: [jadeadamriley@gmail.com]
